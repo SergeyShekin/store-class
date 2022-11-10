@@ -22,9 +22,7 @@ class ShopItemClass extends React.Component {
                     </div>
                 </div>
         )
-        
     }
-
 }
 
 ShopItemClass.propTypes = {
